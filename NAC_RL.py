@@ -270,6 +270,8 @@ def get_events_list():
 #            print('~~~')
 #            print(ev_page.url)
 #            print(param_dict)
+            if id_str==[]:
+		id_str = 'n-a'
             ev_dict['WebID'] = str(id_str)
 #            print(ev_dict)
             elist += [ev_dict]

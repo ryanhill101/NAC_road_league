@@ -18,3 +18,4 @@ TO RUN
 TODO
 -identify NAC athletes from a list of registered athletes provided by membership secretary
 -calculate points total only using best 10 (or best n) races.  PB-qualifying races complicates this...
+-bold/italic PB results and qualifiying scores in the pdf output file
